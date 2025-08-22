@@ -1,4 +1,4 @@
-# sql-exploratory-data-analysis-projec
+# sql-exploratory-data-analysis-project
 
 ## 1. 📌 Project Overview
 
