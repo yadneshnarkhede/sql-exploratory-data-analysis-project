@@ -66,10 +66,10 @@ The following types of EDA were performed:
  ┣ 📂 sql_scripts
  ┃ ┣ exploratory_queries.sql
  ┃ ┗ insights_analysis.sql
- ┗ 📊 results
-   ┣ customer_behavior_report.csv
-   ┣ sales_trends_report.csv
-   ┗ product_performance_report.csv
+ ┗ 📊 report
+   ┣ customer_behavior_report.sql
+   ┣ sales_trends_report.sql
+   ┗ product_performance_report.sql
 ```
 
 ---
