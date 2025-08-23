@@ -42,7 +42,7 @@ The following types of EDA were performed:
 1. **CASE WHEN** – For conditional data categorization (e.g., segmenting customers into groups).
 2. **Common Table Expressions (CTEs)** – For simplifying complex queries and creating temporary result sets.
 3. **JOINS (INNER, LEFT, RIGHT)** – For combining `customers`, `products`, and `sales` datasets to derive meaningful insights.
-
+4. **Window Functions** – For advanced analytics such as running totals, moving averages, ranking products/customers, and analyzing sales trends over time.
 ---
 
 ## 5. 📈 Example Insights Found
